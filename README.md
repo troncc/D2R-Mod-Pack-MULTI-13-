@@ -9,7 +9,7 @@ Also this way mods can be added/deleted pretty easy.
 ## ***How to install:***
 
 - Unpack "mods" folder to your D2R folder.
-- Create shortcut from D2R.exe and add in target line: -mod expanded
+- Create shortcut from D2R.exe and add in target line: **-mod expanded**
 - If the game starts with new game settings and no character at first startup means the mod is working.
 
 For ZLOEmu (ZClient): Drop the shortcut on the ZClient window after login.
